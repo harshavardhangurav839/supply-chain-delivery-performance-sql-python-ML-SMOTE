@@ -1,0 +1,16 @@
+# Ignore data files
+Data/  
+.csv            ← ✅ CSV files ignored
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints ← ✅ 
+
+# Ignore Python bytecode
+__pycache__/       ← ✅
+*.pyc              ← ✅
+
+# Ignore logs
+*.log              ← ✅
+
+# Ignore database files
+*.db               ← ✅ data1.db will be ignored
